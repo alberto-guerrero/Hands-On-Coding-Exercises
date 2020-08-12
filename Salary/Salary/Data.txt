@@ -1,0 +1,6 @@
+﻿Mike, Sales, 75,000
+John, Engineering, 110000
+Brian, HR, 62000
+Jane, Engineering, 85000
+Daniel, HR, 70000
+Nick, Sales, 70000
