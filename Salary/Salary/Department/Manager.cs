@@ -86,6 +86,16 @@ namespace Salary.Department
 
         // Moq nuget package was added to the Solution
         // If you would like to use another mocking framework, add its nugget reference
+
+        [Test]
+        public void Test1()
+        {
+            // Arrange
+
+            // Act
+
+            // Assert
+        }
     }
     
     [TestFixture]
@@ -93,9 +103,20 @@ namespace Salary.Department
     {
         // TODO: implement tests
         // use Data.txt as source of data
-        // Result must be ordered by Department alphabetically
-        // First item should be Engineering with a total of 195000
-        // Second item should be HR with a total of 132000
-        // Third item should be Sales with a total of 145000
+
+        [Test]
+        public void Test()
+        {
+            // Arrange
+
+            // Act
+
+            // Assert
+
+            // Resulting data structure must be ordered by Department alphabetically
+            // First item should be Engineering with a total of 195000
+            // Second item should be HR with a total of 132000
+            // Third item should be Sales with a total of 145000
+        }
     }
 }
